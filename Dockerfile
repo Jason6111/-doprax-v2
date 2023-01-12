@@ -1,5 +1,5 @@
 FROM nginx:latest
-LABEL ifeng fscarmen mack-a ygkkk
+LABEL ifeng fscarmen mack-a jason
 EXPOSE 80
 USER root
 COPY nginx.conf /etc/nginx/nginx.conf
