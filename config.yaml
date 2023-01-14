@@ -1,4 +1,5 @@
 og:
+log:
   loglevel: info
 dns:
   servers:
